@@ -12,3 +12,5 @@ https://javarush.com/groups/posts/496-patternih-proektirovanija-v-java
 https://habr.com/ru/articles/715496/
 https://alexkosarev.name/2020/06/08/testing-spring-with-testcontainers-ru/
 https://www.freecodecamp.org
+https://archive.org/
+https://arxiv.org

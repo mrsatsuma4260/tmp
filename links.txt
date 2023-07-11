@@ -20,3 +20,4 @@ https://www.geeksforgeeks.org/java/
 https://www.simplilearn.com/tutorials/deep-learning-tutorial/neural-network
 https://griddb.net/en/blog/how-to-implement-an-artificial-neural-network-using-java/
 https://www.baeldung.com/java-17-new-features
+https://projectlombok.org

@@ -22,3 +22,4 @@ https://griddb.net/en/blog/how-to-implement-an-artificial-neural-network-using-j
 https://www.baeldung.com/java-17-new-features
 https://projectlombok.org
 https://www.kaspersky.com/resource-center/definitions/what-is-cryptocurrency
+https://dzone.com/articles/design-patterns-for-microservices

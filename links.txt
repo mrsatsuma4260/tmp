@@ -24,3 +24,4 @@ https://projectlombok.org
 https://www.kaspersky.com/resource-center/definitions/what-is-cryptocurrency
 https://dzone.com/articles/design-patterns-for-microservices
 https://habr.com/ru/companies/otus/articles/717486/
+https://kubernetes.io/docs/tasks/configure-pod-container/configure-persistent-volume-storage/

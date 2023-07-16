@@ -27,3 +27,4 @@ https://habr.com/ru/companies/otus/articles/717486/
 https://kubernetes.io/docs/tasks/configure-pod-container/configure-persistent-volume-storage/
 https://stackoverflow.com/questions/48423398/what-is-a-good-way-to-deploy-secret-java-key-stores-in-an-openshift-environment
 https://phoenixnap.com/kb/kubernetes-secrets
+https://www.hackerrank.com/domains/algorithms

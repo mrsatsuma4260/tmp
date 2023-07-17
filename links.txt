@@ -30,3 +30,4 @@ https://phoenixnap.com/kb/kubernetes-secrets
 https://www.hackerrank.com/domains/algorithms
 https://github.com/external-secrets/kubernetes-external-secrets/blob/master/charts/kubernetes-external-secrets/templates/deployment.yaml
 https://www.baeldung.com/spring-boot-properties-env-variables
+https://dion.vc/

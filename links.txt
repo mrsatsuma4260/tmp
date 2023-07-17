@@ -29,3 +29,4 @@ https://stackoverflow.com/questions/48423398/what-is-a-good-way-to-deploy-secret
 https://phoenixnap.com/kb/kubernetes-secrets
 https://www.hackerrank.com/domains/algorithms
 https://github.com/external-secrets/kubernetes-external-secrets/blob/master/charts/kubernetes-external-secrets/templates/deployment.yaml
+https://www.baeldung.com/spring-boot-properties-env-variables

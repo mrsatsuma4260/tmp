@@ -36,3 +36,4 @@ https://podman.io
 https://www-cs-faculty.stanford.edu/~knuth/taocp.html
 https://www.rancher.com
 https://www.postman.com
+https://argo-cd.readthedocs.io

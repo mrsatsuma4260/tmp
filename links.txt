@@ -53,3 +53,4 @@ https://www.youtube.com/watch?v=fuBsVD3KuhU
 https://www.daniweb.com/programming/software-development/threads/422827/static-method-in-interface-generics-workaround
 https://ru.wikipedia.org/wiki/Индекс_массы_тела
 https://www.wikipedia.org
+https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html

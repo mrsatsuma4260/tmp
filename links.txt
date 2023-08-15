@@ -59,3 +59,4 @@ https://www.baeldung.com/spring-same-class-multiple-beans
 https://www.twitch.tv
 https://naruto.fandom.com/wiki/Narutopedia
 https://www.javatpoint.com/design-patterns-in-java
+https://www.hashicorp.com/license-faq

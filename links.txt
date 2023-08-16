@@ -61,3 +61,4 @@ https://naruto.fandom.com/wiki/Narutopedia
 https://www.javatpoint.com/design-patterns-in-java
 https://www.hashicorp.com/license-faq
 https://lingust.ru/español/español-lecciones
+https://marco.dev/spring-boot-openapi-generator

@@ -66,3 +66,4 @@ https://microservices.io/patterns/microservices.html
 https://pkg.go.dev/github.com/contiamo/openapi-generator-go
 https://gist.github.com/egorsmkv/9df2aef2eddf51986b6d2b5833a4423e
 https://go.dev/doc/tutorial/generics
+https://www.damirscorner.com/blog/posts/20181116-UnicodePropertiesFilesInIntellijIdea.html

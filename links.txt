@@ -49,7 +49,6 @@ https://jpoint.ru
 https://gamio.ru/
 https://developers.cardsmobile.ru
 https://www.mtractionenterprise.com/blog/guide-for-e-wallet-app-development-cost-and-key-features/
-https://www.youtube.com/watch?v=fuBsVD3KuhU
 https://www.daniweb.com/programming/software-development/threads/422827/static-method-in-interface-generics-workaround
 https://www.wikipedia.org
 https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html

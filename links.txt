@@ -49,7 +49,6 @@ https://developers.cardsmobile.ru
 https://www.mtractionenterprise.com/blog/guide-for-e-wallet-app-development-cost-and-key-features/
 https://www.daniweb.com/programming/software-development/threads/422827/static-method-in-interface-generics-workaround
 https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html
-https://www.frettedamericana.com
 https://www.baeldung.com/spring-same-class-multiple-beans
 https://www.javatpoint.com/design-patterns-in-java
 https://www.hashicorp.com/license-faq

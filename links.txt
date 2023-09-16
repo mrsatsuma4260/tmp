@@ -61,4 +61,4 @@ https://go.dev/doc/tutorial/generics
 https://www.damirscorner.com/blog/posts/20181116-UnicodePropertiesFilesInIntellijIdea.html
 https://yousician.com/blog/guitar-fretboard-learning-guide
 https://www.youtube.com/watch?v=90Ul1zDNMYA
-
+https://www.baeldung.com/rabbitmq

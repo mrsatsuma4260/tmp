@@ -19,7 +19,6 @@ https://www.simplilearn.com/tutorials/deep-learning-tutorial/neural-network
 https://griddb.net/en/blog/how-to-implement-an-artificial-neural-network-using-java/
 https://www.baeldung.com/java-17-new-features
 https://projectlombok.org
-https://www.kaspersky.com/resource-center/definitions/what-is-cryptocurrency
 https://dzone.com/articles/design-patterns-for-microservices
 https://kubernetes.io/docs/tasks/configure-pod-container/configure-persistent-volume-storage/
 https://stackoverflow.com/questions/48423398/what-is-a-good-way-to-deploy-secret-java-key-stores-in-an-openshift-environment

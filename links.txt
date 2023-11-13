@@ -17,7 +17,6 @@ https://www.geeksforgeeks.org/java/
 https://www.simplilearn.com/tutorials/deep-learning-tutorial/neural-network
 https://griddb.net/en/blog/how-to-implement-an-artificial-neural-network-using-java/
 https://www.baeldung.com/java-17-new-features
-https://projectlombok.org
 https://dzone.com/articles/design-patterns-for-microservices
 https://kubernetes.io/docs/tasks/configure-pod-container/configure-persistent-volume-storage/
 https://phoenixnap.com/kb/kubernetes-secrets

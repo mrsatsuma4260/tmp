@@ -27,7 +27,6 @@ https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-feign.html
 https://podman.io
 https://www-cs-faculty.stanford.edu/~knuth/taocp.html
 https://www.rancher.com
-https://www.postman.com
 https://argo-cd.readthedocs.io
 https://distrowatch.com
 https://www.tuxedocomputers.com/?refID=dwsp

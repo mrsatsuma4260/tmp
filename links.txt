@@ -8,7 +8,6 @@ https://payonline-report.russianpost.ru/monitoring/version
 https://www.javacodegeeks.com
 https://javarush.com/groups/posts/496-patternih-proektirovanija-v-java
 https://alexkosarev.name/2020/06/08/testing-spring-with-testcontainers-ru/
-https://www.freecodecamp.org
 https://archive.org/
 https://arxiv.org
 https://libgdx.com

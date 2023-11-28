@@ -23,7 +23,6 @@ https://argo-cd.readthedocs.io
 https://www.tuxedocomputers.com/?refID=dwsp
 https://xlsxwriter.readthedocs.io/tutorial01.html
 https://catherine.spb.ru/mass/
-https://www.frettedamericana.com
 https://keychron-russia.com
 https://developers.cardsmobile.ru
 https://www.mtractionenterprise.com/blog/guide-for-e-wallet-app-development-cost-and-key-features/

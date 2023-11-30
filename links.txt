@@ -23,7 +23,6 @@ https://argo-cd.readthedocs.io
 https://www.tuxedocomputers.com/?refID=dwsp
 https://xlsxwriter.readthedocs.io/tutorial01.html
 https://catherine.spb.ru/mass/
-https://keychron-russia.com
 https://www.mtractionenterprise.com/blog/guide-for-e-wallet-app-development-cost-and-key-features/
 https://www.daniweb.com/programming/software-development/threads/422827/static-method-in-interface-generics-workaround
 https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html

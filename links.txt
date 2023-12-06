@@ -11,7 +11,6 @@ https://griddb.net/en/blog/how-to-implement-an-artificial-neural-network-using-j
 https://www.baeldung.com/java-17-new-features
 https://dzone.com/articles/design-patterns-for-microservices
 https://kubernetes.io/docs/tasks/configure-pod-container/configure-persistent-volume-storage/
-https://phoenixnap.com/kb/kubernetes-secrets
 https://www.hackerrank.com/domains/algorithms
 https://github.com/external-secrets/kubernetes-external-secrets/blob/master/charts/kubernetes-external-secrets/templates/deployment.yaml
 https://www.baeldung.com/spring-boot-properties-env-variables

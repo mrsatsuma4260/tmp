@@ -1,5 +1,4 @@
 https://www.fontspace.com/category/android,game
-https://en.eagle.cool/blog/post/free-game-assets
 https://www.cherryservers.com/blog/how-to-set-up-postgresql-database-replication
 https://javarush.com/groups/posts/496-patternih-proektirovanija-v-java
 https://alexkosarev.name/2020/06/08/testing-spring-with-testcontainers-ru/

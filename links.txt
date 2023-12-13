@@ -15,7 +15,6 @@ https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-feign.html
 https://xlsxwriter.readthedocs.io/tutorial01.html
 https://www.mtractionenterprise.com/blog/guide-for-e-wallet-app-development-cost-and-key-features/
 https://www.daniweb.com/programming/software-development/threads/422827/static-method-in-interface-generics-workaround
-https://www.baeldung.com/spring-same-class-multiple-beans
 https://www.javatpoint.com/design-patterns-in-java
 https://marco.dev/spring-boot-openapi-generator
 https://spring.io/blog/2022/11/24/spring-boot-3-0-goes-ga
